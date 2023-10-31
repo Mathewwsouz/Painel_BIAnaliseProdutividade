@@ -1,1 +1,2 @@
 # Painel_BIAnaliseProdutividade
+https://app.powerbi.com/view?r=eyJrIjoiZmEwOWRhNDgtYzcwNS00MDYxLTkxYjQtYzg5YTNlZjUyNjk3IiwidCI6IjU2MjFkNjRmLTRjZjgtNDdmNS1iMzc5LTJiMmFiNzljMWM1ZiJ9
